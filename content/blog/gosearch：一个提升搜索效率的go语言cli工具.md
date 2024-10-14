@@ -45,7 +45,7 @@ GoSearch支持Linux、Windows和macOS操作系统，确保在不同平台上的�
 2. 使用以下命令下载并安装GoSearch：
 
 ```bash
-go get https://github.com/Lily-404/search
+go get github.com/Lily-404/search
 ```
 
 ## 使用示例
